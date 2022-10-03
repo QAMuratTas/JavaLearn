@@ -1,2 +1,4 @@
-package Karl_teacher;public class task03 {
+package Karl_teacher;
+
+public class task03 {
 }
