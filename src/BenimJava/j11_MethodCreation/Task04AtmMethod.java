@@ -1,4 +1,4 @@
-package j11_MethodCreation;
+package BenimJava.j11_MethodCreation;
 
 import java.util.Scanner;
 
@@ -24,6 +24,7 @@ public class Task04AtmMethod {//amele köyü
                 break;
             default:
                 System.out.println("agam daha seçim yapamirsen bi de para istirsen ...");
+                secim();
         }
 
     }

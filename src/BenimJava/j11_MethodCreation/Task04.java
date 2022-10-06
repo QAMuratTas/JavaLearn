@@ -16,7 +16,7 @@ public class Task04 {//amale köyden ırgat çağıran şeher
         System.out.println("  ***   ATM'ye hoş Geldiniz  ***  ");
         System.out.println("   ***   ");
         System.out.println("MÖNÜÜÜ :-)\nBakiye öğrenme -> 1\nPara yatırma -> 2\nPara Çeke -> 3\nÇıkış -> 4\nGiriniz : ");
-        j11_MethodCreation.Task04AtmMethod.secim();//method call
+      //  j11_MethodCreation.Task04AtmMethod.secim();//method call
     }//main dışı
 
         //public static void secim() {
